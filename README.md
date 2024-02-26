@@ -1,4 +1,4 @@
-How to run
+# How to run
 please follow the below instructions to run this branch on your machine:
 
 1. Clone this repository
